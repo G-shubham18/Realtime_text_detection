@@ -1,0 +1,10 @@
+{
+  "timestamp": "20261013_095022",
+  "verdict": {
+    "found": true,
+    "confidence": 1.0,
+    "reason": "The handwritten text exactly reads 'Thank you' and is clear.",
+    "board_text": "Thank you"
+  },
+  "latency": 50.392569065093994
+}

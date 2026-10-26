@@ -1,0 +1,13 @@
+{
+  "camera": {
+    "source": "0"
+  },
+  "email": {
+    "sender_email": "sgbhu03@gmail.com",
+    "sender_app_password": "aoou izol wzjv wkou",
+    "receiver_email": "subrata.nandi@gmail.com"
+  },
+  "detection": {
+    "cooldown_seconds": 30.0
+  }
+}
